@@ -1,0 +1,25 @@
+{
+  "Gold": {
+    "update_code": "0",
+    "reminder_time": "3",
+    "update_version": "v9.0",
+    "com.instagram.android": "https://instagold.download/update",
+    "com.instagold.android": "https://instagold.download/update",
+    "com.aginsta.android": "https://instagold.download/update",
+    "update_message": "
+
+<li>Base Update: 2.24.8.85</li>
+<li>Improved Protection anti banned</li>
+<li>Improved Linking Devices</li>
+<li>Added Chat effects (you can choose effects from Gold settings)</li>
+<li> Added icon for controlling night mode from the main screen + option to hide/show the icon</li>
+<li>Added a floating multi-task button in the chat (you can enable it from Gold settings then chat screen)</li>
+<li>Added a button to go to the first message in the chat</li>
+<li>Fixed issue of blue ticks appearing in ghost mode when inside the chat</li>
+<li>Fixed issue of story sharing not appearing when forwarding</li>
+<li>Fixed One UI screen</li>
+<li> Fixed hiding the read receipts</li>
+<li>Other fixes</li>
+"
+    }
+}
