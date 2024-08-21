@@ -2,7 +2,7 @@
   "Gold": {
     "update_code": "0",
     "reminder_time": "3",
-    "update_version": "v9.0",
+    "update_version": "v9.30",
     "com.instagram.android": "https://instagold.download/update",
     "com.instagold.android": "https://instagold.download/update",
     "com.aginsta.android": "https://instagold.download/update",
